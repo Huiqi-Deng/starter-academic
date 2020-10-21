@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Industry Experience"
+title = "Selected Publications"
 subtitle = ""
 
 [content]
@@ -67,9 +67,4 @@ subtitle = ""
  css_class = ""
 +++
 
-* Adobe, Research Intern.
-  * Mentor(s): [Varun Manjunatha](http://users.umiacs.umd.edu/~varunm/), Tong Sun, Rajiv Jain, Jiuxiang Gu, Ruchi Deshpande, Franck Dernoncourt.
-  * May 2020 - August 2020
-* Intel Asia-Pacific Research & Development Ltd, Software Engineer Intern.
-  * Worked on an AR (Augmented reality) project for Smart glasses.
-  * March 2017 - August 2017
+\* The authors contribute equally.
