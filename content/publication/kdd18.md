@@ -44,7 +44,7 @@ tags = []
 
 # Links (optional).
 url_pdf = "http://people.tamu.edu/~dumengnan/cnn_interpretation.pdf"
-url_preprint = 
+url_preprint = ""
 url_code = "https://github.com/mndu/guided-feature-inversion"
 url_dataset = ""
 url_project = ""
