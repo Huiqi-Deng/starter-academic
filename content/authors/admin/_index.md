@@ -12,6 +12,8 @@ superuser: true
 # Role/position
 role: PhD Student
 
+avatar_filename: avatar.png
+
 # Organizations/Affiliations
 organizations:
 - name: Texas A&M University
