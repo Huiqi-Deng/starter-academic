@@ -45,12 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=8uXBeaEAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -73,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently a 4th year Ph.D. student in Computer Science at the CSE department of Texas A&M University. My advisor is Dr. Xia Hu.  My research is on interpretable machine learning, with a particular interest in the areas of DNN interpretability. I am also interested in areas of fairness in deep learning, adversarial detection, fake news detection, and medical diagnosis.
