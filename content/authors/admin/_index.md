@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: PhD Student
 
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 
 # Organizations/Affiliations
 organizations:
