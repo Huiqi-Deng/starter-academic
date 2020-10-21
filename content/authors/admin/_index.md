@@ -35,7 +35,7 @@ education:
   - course: MS in Electrical Engineering
     institution: Beihang University
     year: 2014 - 2017
-  - course: BSc in Electrical EngineerinG
+  - course: BSc in Electrical Engineering
     institution: North China Electric Power University
     year: 2010 - 2014
 
