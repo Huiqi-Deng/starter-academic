@@ -10,8 +10,13 @@
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publication"
   weight = 20
+
+[[main]]
+  name = "Scholar"
+  url = "https://scholar.google.com/citations?user=8uXBeaEAAAAJ&hl=en&oi=ao"
+  weight = 30
 
 
 # Link to a PDF of your resume/CV from the menu.
