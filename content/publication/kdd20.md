@@ -1,0 +1,72 @@
++++
+title = "An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks"
+date = 2020-09-05T00:00:02
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Ruixiang Tang", "Mengnan Du", "Ninghao Liu", "Fan Yang", "Xia Hu"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["1"]
+
+# Publication name and optional abbreviated version.
+publication = "The 26rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining "
+publication_short = "KDD 2020"
+
+# Abstract and optional shortened version.
+abstract = "With the widespread use of deep neural networks (DNNs) in high-stake applications, the security problem of the DNN models has received extensive attention. In this paper, we investigate a specific security problem called trojan attack, which aims to attack deployed DNN systems relying on the hidden trigger patterns inserted by malicious hackers. We propose a training-free attack approach which is different from previous work, in which trojaned behaviors are injected by retraining model on a poisoned dataset. Specifically, we do not change parameters in the original model but insert a tiny trojan module (TrojanNet) into the target model. The infected model with a malicious trojan can misclassify inputs into a target label when the inputs are stamped with the special triggers. The proposed TrojanNet has several nice properties including (1) it activates by tiny trigger patterns and keeps silent for other signals, (2) it is model-agnostic and could be injected into most DNNs, dramatically expanding its attack scenarios, and (3) the training-free mechanism saves massive training efforts comparing to conventional trojan attack methods. The experimental results show that TrojanNet can inject the trojan into all labels simultaneously (all-label trojan attack) and achieves 100% attack success rate without affecting model accuracy on original tasks. Experimental analysis further demonstrates that state-of-the-art trojan detection algorithms fail to detect TrojanNet attack."
+abstract_short = ""
+
+# Featured image thumbnail (optional)
+image_preview = ""
+
+# Is this a selected publication? (true/false)
+selected = true
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's filename without extension.
+#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
+#   Otherwise, set `projects = []`.
+projects = []
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+
+# Links (optional).
+url_pdf = "https://arxiv.org/abs/2006.08131"
+url_preprint = ""
+url_code = "https://github.com/trojannet2020/TrojanNet"
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Does this page contain LaTeX math? (true/false)
+math = false
+
+# Does this page require source code highlighting? (true/false)
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = ""
+
++++
