@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Industry Experience"
 subtitle = ""
 
 [content]
@@ -67,6 +67,9 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+* Adobe, Research Intern.
+  * Mentor(s): [Varun Manjunatha](http://users.umiacs.umd.edu/~varunm/), Tong Sun, Rajiv Jain, Jiuxiang Gu, Ruchi Deshpande, Franck Dernoncourt.
+  * May 2020 - August 2020
+* Intel Asia-Pacific Research & Development Ltd, Software Engineer Intern.
+  * Worked on an AR (Augmented reality) project for Smart glasses.
+  * March 2017 - August 2017
