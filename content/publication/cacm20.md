@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Communications of the ACM"
-publication_short = "CACM, **Highlighted Article on the Cover Page**"
+publication_short = "Communications of the ACM (CACM), Review Article, **Highlighted Article on the Cover Page**"
 
 # Abstract and optional shortened version.
 abstract = "Interpretable machine learning tackles the important problem that humans cannot understand the behaviors of complex machine learning models and how these models arrive at a particular decision. Although many approaches have been proposed, a comprehensive understanding of the achievements and challenges is still lacking. We provide a survey covering existing techniques to increase the interpretability of machine learning models. We also discuss crucial issues that the community should consider in future work such as designing user-friendly explanations and developing comprehensive evaluation metrics to further push forward the area of interpretable machine learning."
