@@ -74,4 +74,5 @@ user_groups:
 
 I am currently a 4th year Ph.D. student in Computer Science at the CSE department of Texas A&M University. My advisor is Dr. [Xia Hu](https://people.engr.tamu.edu/xiahu/index.html).  My research is on interpretable machine learning, with a particular interest in the areas of DNN interpretability. I am also interested in areas of fairness in deep learning, adversarial detection, fake news detection, and medical diagnosis.
 
-I am looking for **2021 internship either on Natural Language Understanding or Explainable AI**, please contact me if you have opening positions.
+
+# I am looking for **2021 internship either on Natural Language Understanding or Explainable AI**, please contact me if you have opening positions.
