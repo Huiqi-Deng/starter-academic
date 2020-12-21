@@ -72,6 +72,8 @@ user_groups:
 - Visitors
 ---
 
-I am currently a 4th year Ph.D. student in Computer Science at the CSE department of Texas A&M University. My advisor is Dr. [Xia Hu](https://people.engr.tamu.edu/xiahu/index.html).  My research is on interpretable machine learning, with a particular interest in the areas of DNN interpretability. I am also interested in areas of fairness in deep learning, adversarial detection, fake news detection, and medical diagnosis.
+I am currently a 4th year Ph.D. student in Computer Science at the CSE department of Texas A&M University. My advisor is Dr. [Xia Hu](https://people.engr.tamu.edu/xiahu/index.html).  My research interest is on the broad area of trustworthy machine learning, with a particular interest in the areas of explainable, fair, and robust DNNs. I am particularly interested in the intersection of trustworthy ML and Natural Language Understanding.
+
+
 
 
