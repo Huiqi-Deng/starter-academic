@@ -1,0 +1,72 @@
++++
+title = "Mitigating Gender Bias in Captioning Systems"
+date = 2021-03-10T00:00:04
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Ruixiang Tang", "Mengnan Du", "Yuening Li", "Zirui Liu", "Xia Hu"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["2"]
+
+# Publication name and optional abbreviated version.
+publication = "The Web Conference"
+publication_short = "WWW"
+
+# Abstract and optional shortened version.
+abstract = "Image captioning has made substantial progress with huge supporting image collections sourced from the web. However, recent studies have pointed out that captioning datasets, such as COCO, contain gender bias found in web corpora. As a result, learning models could heavily rely on the learned priors and image context for gender identification, leading to incorrect or even offensive errors. To encourage models to learn correct gender features, we reorganize the COCO dataset and present two new splits COCO-GB V1 and V2 datasets where the train and test sets have different gender-context joint distribution. Models relying on contextual cues will suffer from huge gender prediction errors on the anti-stereotypical test data. Benchmarking experiments reveal that most captioning models learn gender bias, leading to high gender prediction errors, especially for women. To alleviate the unwanted bias, we propose a new Guided Attention Image Captioning model (GAIC) which provides self-guidance on visual attention to encourage the model to capture correct gender visual evidence. Experimental results validate that GAIC can significantly reduce gender prediction errors with a competitive caption quality."
+abstract_short = ""
+
+# Featured image thumbnail (optional)
+image_preview = ""
+
+# Is this a selected publication? (true/false)
+selected = true
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's filename without extension.
+#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
+#   Otherwise, set `projects = []`.
+projects = []
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+
+# Links (optional).
+url_pdf = "https://arxiv.org/abs/2006.08315"
+url_preprint = ""
+url_code = "https://github.com/datamllab/Mitigating_Gender_Bias_In_Captioning_System"
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Does this page contain LaTeX math? (true/false)
+math = false
+
+# Does this page require source code highlighting? (true/false)
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = ""
+
++++
