@@ -1,6 +1,6 @@
 +++
 title = "Mitigating Gender Bias in Captioning Systems"
-date = 2021-03-10T00:00:04
+date = 2021-03-11T00:00:04
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
