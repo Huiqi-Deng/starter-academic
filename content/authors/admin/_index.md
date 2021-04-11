@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-I am currently a 4th year Ph.D. student in Computer Science at the CSE department of Texas A&M University. My advisor is Dr. [Xia Hu](https://people.engr.tamu.edu/xiahu/index.html). I also work closely with Dr. [Ben Shneiderman](http://www.cs.umd.edu/users/ben/) from University of Maryland, and maintain a website for [Human-Centered AI](https://hcai.site/).
+I am currently a 4th year Ph.D. student in Computer Science at the CSE department of Texas A&M University, under supervision of [Dr. Xia Hu](https://people.engr.tamu.edu/xiahu/index.html). I also work closely with Dr. [Ben Shneiderman](http://www.cs.umd.edu/users/ben/) of University of Maryland, and developed a website for [Human-Centered AI](https://hcai.site/). Here is my [CV](https://mengnandu.com/files/cv.pdf)
 
 My research interest is on the broad area of trustworthy machine learning, with a particular interest in the areas of explainable, fair, and robust DNNs. I am particularly interested in the intersection of trustworthy ML and Natural Language Understanding.
 
