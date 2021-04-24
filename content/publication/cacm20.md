@@ -55,7 +55,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Chinese translation", url = "http://people.tamu.edu/~dumengnan/interpretable_machine_learning_chinese.pdf"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
