@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "AAAI Conference on Artificial Intelligence"
-publication_short = "AAAI"
+publication_short = "AAAI 2021"
 
 # Abstract and optional shortened version.
 abstract = "Attribution methods have been developed to understand the decision making process of machine learning models, especially deep neural networks, by assigning importance scores to individual features. Existing attribution methods often built upon empirical intuitions and heuristics. There still lacks a general and theoretical framework that not only can unify these attribution methods, but also theoretically reveal their rationales, fidelity, and limitations. To bridge the gap, in this paper, we propose a Taylor attribution framework and reformulate seven mainstream attribution methods into the framework. Based on reformulations, we analyze the attribution methods in terms of rationale, fidelity, and limitation. Moreover, We establish three principles for a good attribution in the Taylor attribution framework, i.e., low approximation error, correct contribution assignment, and unbiased baseline selection. Finally, we empirically validate the Taylor reformulations, and reveal a positive correlation between the attribution performance and the number of principles followed by the attribution method via benchmarking on real-world datasets."

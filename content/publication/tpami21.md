@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Transactions on Pattern Analysis and Machine Intelligence"
-publication_short = "TPAMI"
+publication_short = "TPAMI 2021"
 
 # Abstract and optional shortened version.
 abstract = "We propose a simple but efficent approch for the differentiated explanations of black-box classifiers. To do this, we introduce a trainable relevance estimator that produces relevance scores in a skewed distribution. Specifically, we present the concept of distribution controllers and integrate it with a neural network to directly guide the distribution of relevance scores. By analyzing the effect of the skewness of distributions, we develop the controllers with right-skewed distributions for differentiated saliency maps. Then we introduce the classification loss to optimize the estimator. The benefit of this strategy is to better mimic the behavior of deep neural networks without non-trivial hyperparameter tuning, leading to higher faithfulness of explanation."

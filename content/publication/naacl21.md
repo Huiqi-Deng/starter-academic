@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "The 2021 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies"
-publication_short = "NAACL"
+publication_short = "NAACL 2021"
 
 # Abstract and optional shortened version.
 abstract = "Recent studies indicate that NLU models are prone to rely on shortcut features for prediction. As a result, these models could potentially fail to generalize to real-world out-of-distribution scenarios. In this work, we show that the shortcut learning behavior can be explained by the long-tailed phenomenon. There are two findings : 1) Trained NLU models have strong preference for features located at the head of the long-tailed distribution, and 2) Shortcut features are picked up during very early few iterations of the model training. These two observations are further employed to formulate a measurement which can quantify the shortcut degree of each training sample. Based on this shortcut measurement, we propose a shortcut mitigation framework, to suppress the model from making overconfident predictions for samples with large shortcut degree. Experimental results on three NLU benchmarks demonstrate that our long-tailed distribution explanation accurately reflects the shortcut learning behavior of NLU models. Experimental analysis further indicates that our method can improve the generalization accuracy on OOD data, while preserving the accuracy on in distribution test data. "
