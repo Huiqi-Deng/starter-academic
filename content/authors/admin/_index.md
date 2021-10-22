@@ -76,7 +76,7 @@ I am a Ph.D. candidate in Computer Science at the CSE department of Texas A&M Un
 
 My research interest is on the broad area of trustworthy machine learning, with a particular interest in the areas of explainable, fair, and robust DNNs. I am particularly interested in the intersection of trustworthy ML and Natural Language Understanding.
 
-<span style="color:red">I'm on the job market this year. Please feel free to [contact me]('mailto:dumengnan@tamu.edu') if you are interested.</span>
+<span style="color:red">I'm on the job market this year. Please feel free to contact me if you are interested.</span>
 
 
 
