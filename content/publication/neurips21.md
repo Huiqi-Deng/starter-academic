@@ -45,7 +45,7 @@ tags = []
 # Links (optional).
 url_pdf = "https://arxiv.org/abs/2106.12674"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/mndu/RNF-Fairness"
 url_dataset = ""
 url_project = ""
 url_slides = ""
