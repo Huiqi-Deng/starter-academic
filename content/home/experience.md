@@ -20,8 +20,10 @@ date_format = "Jan 2006"
 
 
 +++
-
-* Adobe, Research Intern.
+* MSR, Research Intern.
+  * Mentor(s): [Subhabrata (Subho) Mukherjee](https://www.microsoft.com/en-us/research/people/submukhe/), [Yu Cheng](https://sites.google.com/site/chengyu05), and Ahmed H. Awadallah.
+  * May 2021 - August 2021
+* Adobe Research, Research Intern.
   * Mentor(s): [Varun Manjunatha](http://users.umiacs.umd.edu/~varunm/), Tong Sun, Rajiv Jain, Jiuxiang Gu, Ruchi Deshpande, Franck Dernoncourt.
   * May 2020 - August 2020
 * Intel Asia-Pacific Research & Development Ltd, Software Engineer Intern.
